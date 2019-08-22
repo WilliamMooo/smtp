@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/smtptest/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/course_design.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\course_design.dir\\src\\Email.cpp.obj -c C:\\Users\\96101\\Desktop\\smtptest\\src\\Email.cpp",
+  "file": "C:/Users/96101/Desktop/smtptest/src/Email.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/smtptest/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/course_design.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\course_design.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\smtptest\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/smtptest/src/main.cpp"
+}
+]

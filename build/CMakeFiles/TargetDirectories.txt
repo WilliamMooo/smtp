@@ -1,0 +1,3 @@
+C:/Users/96101/Desktop/smtptest/build/CMakeFiles/course_design.dir
+C:/Users/96101/Desktop/smtptest/build/CMakeFiles/edit_cache.dir
+C:/Users/96101/Desktop/smtptest/build/CMakeFiles/rebuild_cache.dir
